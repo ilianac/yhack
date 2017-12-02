@@ -583,7 +583,7 @@ textarea::-ms-input-placeholder
     background-color: transparent;
 }
 .navbar-brand{
-	margin-top:-5px;
+	margin-top:-10px;
 }
 
 
@@ -591,6 +591,7 @@ textarea::-ms-input-placeholder
 .home{
     background:url(../images/flight2.jpg) no-repeat center center;
     color:#000;
+
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
