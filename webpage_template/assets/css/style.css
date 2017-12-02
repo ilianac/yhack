@@ -579,7 +579,7 @@ textarea::-ms-input-placeholder
     color:#fff;
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-    color: #82ca9c;
+    color:linear-gradient(to right, orange, red);;
     background-color: transparent;
 }
 .navbar-brand{
@@ -590,8 +590,6 @@ textarea::-ms-input-placeholder
 /*For Home Section*/
 .home{
     background:url(../images/flight2.jpg) no-repeat center center;
-    color:#000;
-
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
