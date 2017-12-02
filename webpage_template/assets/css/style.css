@@ -9,7 +9,7 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
    ========================================================================== */
 html,
 body {
-    font-size: 15px;
+    font-size: 14px;
     color: #565656;
     width: 100%;
     padding: 0;
@@ -30,7 +30,7 @@ img {
 
 
 /*==========================================
-PRE LOADER 
+PRE LOADER
 ==========================================*/
 
 .preloader {
@@ -583,13 +583,13 @@ textarea::-ms-input-placeholder
     background-color: transparent;
 }
 .navbar-brand{
-	margin-top:-5px;	
+	margin-top:-5px;
 }
 
 
 /*For Home Section*/
 .home{
-    background:url(../images/homebg.jpg) no-repeat center center;
+    background:url(../images/flight2.jpg) no-repeat center center;
     color:#000;
 	background-size:cover;
 	-webkit-background-size:cover;
@@ -1275,9 +1275,9 @@ textarea::-ms-input-placeholder
     }
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-xkeyframes 
+xkeyframes
 
 -------------------------------- */
 @-webkit-keyframes cd-rotate {
@@ -1688,5 +1688,3 @@ xkeyframes
 	text-decoration: none;
 
 }
-
-
